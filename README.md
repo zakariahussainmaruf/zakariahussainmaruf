@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack web developer using React & Node.js at Forrovia<br>Open source web projects, MERN stack apps, or SaaS products<br>Advanced TypeScript patterns and system design<br>Next.js, Docker, and advanced React patterns<br>React, Node.js, MongoDB, Firebase, Tailwind CSS, and web development<br>I can turn a design into a fully working website faster than most people finish their coffee! ☕
+🔭 I'm currently working on:<br>Full Stack web developer using React & Node.js at Forrovia<br>👯 I'm looking to collaborate on:<br> Open source web projects, MERN stack apps, or SaaS products<br>🤝 I'm looking for help with:<br>Advanced TypeScript patterns and system design<br>🌱 I'm currently learning:<br>Next.js, Docker, and advanced React patterns<br>💬 Ask me about:<br>React, Node.js, MongoDB, Firebase, Tailwind CSS, and web development<br>⚡ Fun fact: <br>I can turn a design into a fully working website faster than most people finish their coffee! ☕
 
 
 ## 🌐 Socials:
